@@ -16,6 +16,9 @@ const outfitOne = new Outfit('crop-top', 'jeans', 'jordans', 'louis vuitton');
 
 const outfitTwo = new Outfit('blouse', 'skirt', 'boots', 'fendi');
 
+const outfitThree = new Outfit('turtleneck', 'leggings', 'boots', 'gucci');
+
 outfitOne.todaysOutfit();
 outfitTwo.todaysOutfit();
+outfitThree.todaysOutfit();
 
